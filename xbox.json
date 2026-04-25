@@ -1,0 +1,44 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "xboxlive.com",
+        "xboxservices.com",
+        "xbox.com",
+        "gamepass.com",
+        "gameservices.xboxlive.com",
+        "xboxlive.com",
+        "xboxservices.com",
+        "xboxab.com",
+        "xboxlive.com",
+        "xboxservices.com",
+        "live.com",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "microsoft.com",
+        "wns.windows.com",
+        "skydrive.wns.windows.com",
+        "onedrive.com",
+        "assets1.xboxlive.com",
+        "assets2.xboxlive.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "xbox",
+        "xbl",
+        "xsts"
+      ]
+    },
+    {
+      "port": [
+        88,
+        500,
+        3074,
+        3544,
+        4500
+      ]
+    }
+  ]
+}
