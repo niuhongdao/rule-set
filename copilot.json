@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "copilot.microsoft.com",
+        "copilot-api.microsoft.com",
+        "copilot.microsoft",
+        "copilot.live.com",
+        "copilot.microsoft365.com",
+        "copilot.office.com",
+        "copilot.bing.com",
+        "bingcopilot.microsoft.com",
+        "edge.microsoft.com",
+        "assets.msn.com",
+        "copilot.azureedge.net",
+        "copilot.microsoft-ppe.com",
+        "copilot.microsoft-int.com",
+        "copilot.microsoft-us.com",
+        "copilot.microsoft-eu.com",
+        "copilot.microsoft-gcc.com",
+        "copilot.microsoft-gov.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "copilot",
+        "bingcopilot",
+        "microsoftcopilot"
+      ]
+    }
+  ]
+}
